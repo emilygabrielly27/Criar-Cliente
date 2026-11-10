@@ -1,0 +1,19 @@
+COMANDOS UTILIZADOS NA ATIVIDADE
+
+1 - Inicializar o projeto:
+npm init -y
+
+2 - Instalar Express:
+npm install express
+
+3 - Instalar dependências de desenvolvimento:
+npm install -D @types/express @types/node tsx typescript
+
+4 - Executar os testes:
+npx tsx src/testeCliente.ts
+
+5 - Compilar o projeto:
+npm run build
+
+6 - Executar o servidor:
+npm run dev
